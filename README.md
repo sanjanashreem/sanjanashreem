@@ -30,7 +30,7 @@
 - 🌱 I’m currently refining my skills in **Backend Engineering & Data Structures**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Java, Object-Oriented Programming, and Web Development**
-- 📫 How to reach me: **YOUR_EMAIL@gmail.com**
+- 📫 How to reach me: **sanjanashree64@gmail.com**
 
 ---
 
