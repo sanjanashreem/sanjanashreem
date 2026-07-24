@@ -11,13 +11,10 @@
 
 <!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:sanjanashree@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
@@ -27,7 +24,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on building robust **Java applications**
-- 🌱 I’m currently refining my skills in **Backend Engineering & Data Structures**
+- 🌱 I’m currently refining my skills in **Backend Engineering and Software Developer**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Java, Object-Oriented Programming, and Web Development**
 - 📫 How to reach me: **sanjanashree64@gmail.com**
@@ -48,8 +45,7 @@
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Project 1** | Concise description of what this app/tool does. | `Java` `Spring Boot` | [Repository](https://github.com/sanjanashreem/repo1) |
-| **Project 2** | Concise description of this web/mobile interface. | `JavaScript` `HTML` `CSS` | [Repository](https://github.com/sanjanashreem/repo2) |
+| **Project 1** | Developed FinTrack, a full-stack personal finance web application using a Java Spring Boot backend with a responsive React frontend. . | `Java` `Spring Boot` | [Repository](https://github.com/sanjanashreem/Fintrack) |
 
 ---
 
