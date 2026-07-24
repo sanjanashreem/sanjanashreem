@@ -51,10 +51,6 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=sanjanashreem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanashreem&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 <br />
 
@@ -63,8 +59,3 @@
 </div>
 
 ---
-
-<!-- VISITOR COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjanashreem&label=Profile%20Views&color=blue&style=flat-square" alt="Visitor Counter" />
-</p>
